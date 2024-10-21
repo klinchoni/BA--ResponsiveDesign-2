@@ -51,8 +51,8 @@ header nav img{
 
 .floating-menu li {
     float: left; 
-    margin-right: 20px; 
-    padding: 14px 20px; 
+    margin-right: 6px; 
+    padding: 5px 6px;  
 }
 
 .floating-menu li a {
@@ -282,7 +282,7 @@ h3 {
     justify-content: space-around;
     padding-top: 2rem;
 }
-
+/* IDK */
 .blog-news ul .news {
     list-style: none outside;
     display: flex;
