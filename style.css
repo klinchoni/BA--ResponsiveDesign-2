@@ -73,6 +73,7 @@ header nav ul li {
 }
 
 header nav ul li a {
+    font-size: 16px;
     color: white;
     text-decoration: none;
     font-weight: bold;
@@ -134,7 +135,7 @@ h3 {
 
 .our-team-wrapper,
 .offer {
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
     padding: 2.5rem 0;
     text-align: center;
@@ -282,7 +283,7 @@ h3 {
     justify-content: space-around;
     padding-top: 2rem;
 }
-/* IDK */
+
 .blog-news ul .news {
     list-style: none outside;
     display: flex;
